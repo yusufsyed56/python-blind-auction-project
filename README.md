@@ -25,4 +25,4 @@ A simple terminal-based Blind Auction program built using Python.
 3. Run:
 
 ```bash
-
+python main.py
